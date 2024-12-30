@@ -14,4 +14,7 @@ I have shared the cleaned data sets **content1**, **Reactions1**, *and *Reaction
 ----- 2nd step is to merge the 3 datasets----------
 After cleaning using power query in Excel we need to merge the 3 datasets into one file. I have shared the merged dataset as the **Final Result**.
 
+-----3rd step is to find the top 5 categories---------
+By using merged data find the top 5 categories by using **sumif** formulas.
 
+----- 4th step to complete this project is to prepare the template by they mentioned template design only. I have uploaded the PPT 
