@@ -5,6 +5,9 @@ Completed a simulation focused on advising a hypothetical social media client as
 Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
 Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
 
+![1735244990457_page-0001](https://github.com/user-attachments/assets/6c94ffc8-33a3-455c-b94e-562d8dd3f806)
+
+
 ----------------process to complete the project----------------------
 
 -----1st step is to clean the data----------
