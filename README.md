@@ -17,4 +17,7 @@ After cleaning using power query in Excel we need to merge the 3 datasets into o
 -----3rd step is to find the top 5 categories---------
 By using merged data find the top 5 categories by using **sumif** formulas.
 
------ 4th step to complete this project is to prepare the template by they mentioned template design only. I have uploaded the PPT 
+----- 4th step to complete this project is to prepare the template by the mentioned template design only. I have uploaded the PPT named as ** Data Analytics template - Final PPT.pptx**
+**
+
+In PPT need to create insights for observation and forecast the feature outcome
